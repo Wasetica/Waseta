@@ -23,5 +23,4 @@ My public profile
  
  
  Skills: 
- [Python]https://img.shields.io/teamcity/build/s/Python?style=plastic
- 
+ [Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=appveyorfrom simpleicons.icons import si_[ICON_SLUG])
