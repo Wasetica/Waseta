@@ -17,5 +17,11 @@ Siéntete libre de explorar mi portafolio y no dudes en contactarme si tienes al
 
 My public profile
  ### Where to find me.
+
  
- -[Linkedin](https://www.linkedin.com/in/sebastián-quintana-2a234b10b/)
+ - [Linkedin](https://www.linkedin.com/in/sebastián-quintana-2a234b10b/)
+ 
+ 
+ Skills: 
+ [Python]https://img.shields.io/teamcity/build/s/Python?style=plastic
+ 
