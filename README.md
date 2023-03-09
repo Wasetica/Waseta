@@ -16,6 +16,6 @@ Soy un apasionado por el aprendizaje continuo y siempre busco mejorar y mantener
 Siéntete libre de explorar mi portafolio y no dudes en contactarme si tienes alguna pregunta o te gustaría discutir un posible proyecto conjunto. ¡Gracias por visitar mi perfil de Github!
 
 My public profile
- ### Where to find me
+ ### Where to find me.
  
  -[Linkedin](https://www.linkedin.com/in/sebastián-quintana-2a234b10b/)
